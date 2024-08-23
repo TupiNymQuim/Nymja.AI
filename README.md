@@ -24,3 +24,7 @@ Nymja.AI is the solution that incorporates privacy into the most modern and powe
 ### Eduarda Dionisio - software developer
 - LinkedIn: https://www.linkedin.com/in/eduardadionisio/
 - Github: [https://github.com/EduardaDT](https://github.com/EduardaDT)
+
+# Further Details:
+
+https://forum.nymtech.net/t/grant-submission-for-nymja-ai-your-open-source-llm-with-built-in-privacy/501/6
