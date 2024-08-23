@@ -16,10 +16,11 @@ Nymja.AI is the solution that incorporates privacy into the most modern and powe
 
 # Team:
 
-- psydenst (software developer and TupiNymQuim co-founder)
-- LinkedIn: https://www.linkedin.com/in/pedrosydenstricker/ 1
-- Github: psydenst (Pedro | psydenst) · GitHub
 
-- Duda (software developer)
+### Pedro Sydenstricker (psydenst) - software developer and TupiNymQuim co-founder
+- LinkedIn: https://www.linkedin.com/in/pedrosydenstricker/ 1
+- Github:[ psydenst (Pedro | psydenst) · GitHub](https://github.com/psydenst)
+
+### Eduarda Dionisio - software developer
 - LinkedIn: https://www.linkedin.com/in/eduardadionisio/
-- Github: EduardaDT (Maria Eduarda) · GitHub
+- Github: [https://github.com/EduardaDT](https://github.com/EduardaDT)
